@@ -13,7 +13,7 @@ Require the ruby gem in your Gemfile...
 gem 'jekyll-thumbnail'
 ```
 
-And then add the plugin to your config:
+And then add the plugin to your `_config.yml`:
 ```
 plugins:
   - jekyll-thumbnail-img
