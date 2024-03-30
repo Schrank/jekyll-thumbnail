@@ -13,6 +13,12 @@ Require the ruby gem in your Gemfile...
 gem 'jekyll-thumbnail'
 ```
 
+And then add the plugin to your config:
+```
+plugins:
+  - jekyll-thumbnail-img
+```
+
 Then, use it in your Liquid templates as follows:
 
 ```
